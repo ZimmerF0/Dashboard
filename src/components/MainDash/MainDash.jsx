@@ -8,7 +8,6 @@ const MainDash = () => {
     <div className="MainDash">
       <h1>MainDash</h1>
       <Cards />
-
       <Table />
     </div>
   );
